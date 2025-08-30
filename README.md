@@ -31,3 +31,14 @@ For example, users can run FirmScrap to generate JSON metadata for all available
     ```
     pip install -r requirements.txt
     ```
+
+## Usage
+
+1. Execute FirmScrap_[Vendor]_json_creator.py. It will create the json file which contains the metadata and download links of the vendor's firmware.
+2. Execute FirmScrap_downloader.py. It will need the json file. The downloader will download the actual firmware by parsing the json file.
+
+## Contact
+
+If you have any question or issue, please contact to me.
+
+herrtane@korea.ac.kr
