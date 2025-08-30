@@ -2,15 +2,15 @@
 
 ## Overview
 
-FirmScrap is a firmware collection tool designed with a metadata-first approach. Instead of downloading firmware images immediately, the tool first collects metadata — including download links — and stores it in structured JSON files. This separation between metadata collection and the actual download process allows users to update or extend their datasets without repeatedly downloading the same files.
+FirmScrap is a firmware collection tool designed with a metadata-first approach (It is part of the FirmFirm framework). Instead of downloading firmware images immediately, the tool first collects metadata — including download links — and stores it in structured JSON files. This separation between metadata collection and the actual download process allows users to update or extend their datasets without repeatedly downloading the same files.
 
 ## Key Advantage
 
-By decoupling metadata acquisition from the download phase, FirmScrap prevents redundant downloads when refreshing or expanding datasets, significantly reducing bandwidth usage and storage overhead.
+By decoupling metadata acquisition from the download phase, FirmScrap prevents redundant downloads when refreshing or expanding datasets.
 
 ## Usage Scenario
 
-For example, users can run FirmScrap to generate JSON metadata for all available firmware of a vendor. Later, when the dataset needs to be updated, only the metadata is re-collected, and downloads are performed selectively using the existing JSON records. This workflow ensures reproducibility and efficiency in large-scale firmware studies.
+For example, users can run FirmScrap to generate JSON metadata for all available firmware of a vendor. Later, when the dataset needs to be updated, only the metadata is re-collected, and downloads are performed selectively using the existing JSON records.
 
 ## Installation
 
@@ -42,3 +42,4 @@ For example, users can run FirmScrap to generate JSON metadata for all available
 If you have any question or issue, please contact to me.
 
 herrtane@korea.ac.kr
+
