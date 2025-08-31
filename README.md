@@ -2,7 +2,14 @@
 
 ## Overview
 
-FirmScrap is a firmware collection tool designed with a metadata-first approach (It is part of the FirmFirm framework). Instead of downloading firmware images immediately, the tool first collects metadata — including download links — and stores it in structured JSON files. This separation between metadata collection and the actual download process allows users to update or extend their datasets without repeatedly downloading the same files.
+FirmScrap is a firmware collection tool designed with a metadata-first approach (It is part of the FirmAware framework). Instead of downloading firmware images immediately, the tool first collects metadata — including download links — and stores it in structured JSON files. This separation between metadata collection and the actual download process allows users to update or extend their datasets without repeatedly downloading the same files.
+
+## Target Vendor
+
+D-Link, Foscam, MOXA, TpLink, Trendnet
+
+Note: Although IPTime, Zyxel, Netgear and Ubiquiti are included in the collected dataset of this study, they were excluded from the analysis. Accordingly, the corresponding scraping modules are not included in this release.
+
 
 ## Key Advantage
 
@@ -42,4 +49,5 @@ For example, users can run FirmScrap to generate JSON metadata for all available
 If you have any question or issue, please contact to me.
 
 herrtane@korea.ac.kr
+
 
