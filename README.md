@@ -12,8 +12,9 @@ FirmScrap is a firmware collection tool designed with a metadata-first approach 
 - TpLink
 - Trendnet
 - Ubiquiti
+- Netgear
 
-Note: Although IPTime, Zyxel and Netgear are included in the collected dataset of this study, they were excluded from the analysis. Accordingly, the corresponding scraping modules are not included in this release.
+Note: Although IPTime and Zyxel are included in the collected dataset of this study, they were excluded from the analysis. Accordingly, the corresponding scraping modules are not included in this release.
 
 
 ## Key Advantage
@@ -54,6 +55,7 @@ For example, users can run FirmScrap to generate JSON metadata for all available
 If you have any question or issue, please contact to me.
 
 herrtane@korea.ac.kr
+
 
 
 
