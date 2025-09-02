@@ -50,11 +50,16 @@ For example, users can run FirmScrap to generate JSON metadata for all available
 1. Execute FirmScrap_[Vendor]_json_creator.py. It will create the json file which contains the metadata and download links of the vendor's firmware.
 2. Execute FirmScrap_downloader.py. It will need the json file. The downloader will download the actual firmware by parsing the json file.
 
+## Note on Dataset
+
+The dataset collected with this tool may differ from that used in the paper, as factors such as collection time, website changes, or tool updates can affect the number of samples.
+
 ## Contact
 
 If you have any question or issue, please contact to me.
 
 herrtane@korea.ac.kr
+
 
 
 
