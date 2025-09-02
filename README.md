@@ -14,7 +14,7 @@ FirmScrap is a firmware collection tool designed with a metadata-first approach 
 - Ubiquiti
 - Netgear
 
-Note: Although IPTime and Zyxel are included in the collected dataset of this study, they were excluded from the analysis. Accordingly, the corresponding scraping modules are not included in this release.
+Note: Although IPTime is included in the collected dataset of this study, they were excluded from the analysis. Accordingly, the corresponding scraping modules are not included in this release.
 
 **!! Note: This tool may have certain components disabled or removed in compliance with vendor requests.**
 
@@ -61,6 +61,7 @@ Our team continues to improve the code to enable broader and more effective data
 If you have any question or issue, please contact to me.
 
 herrtane@korea.ac.kr
+
 
 
 
