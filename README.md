@@ -53,12 +53,14 @@ For example, users can run FirmScrap to generate JSON metadata for all available
 ## Note on Dataset
 
 The dataset collected with this tool may differ from that used in the paper, as factors such as collection time, website changes, or tool updates can affect the number of samples.
+Our team continues to improve the code to enable broader and more effective dataset collection.
 
 ## Contact
 
 If you have any question or issue, please contact to me.
 
 herrtane@korea.ac.kr
+
 
 
 
