@@ -22,7 +22,7 @@ By decoupling metadata acquisition from the download phase, FirmScrap prevents r
 
 ## Usage Scenario
 
-For example, users can run FirmScrap to generate JSON metadata for all available firmware of a vendor. Later, when the dataset needs to be updated, only the metadata is re-collected, and downloads are performed selectively using the existing JSON records.
+For example, users can run FirmScrap to generate JSON metadata for all available firmware of a vendor. Later, when the dataset needs to be updated, only the metadata is re-collected, and downloads are performed  using the updated JSON files.
 
 ## Installation
 
@@ -54,6 +54,7 @@ For example, users can run FirmScrap to generate JSON metadata for all available
 If you have any question or issue, please contact to me.
 
 herrtane@korea.ac.kr
+
 
 
 
