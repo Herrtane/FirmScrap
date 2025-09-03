@@ -14,6 +14,7 @@ FirmScrap is a firmware collection tool designed with a metadata-first approach 
 - Ubiquiti
 - Netgear
 - Zyxel
+- IpTime
   
 **!! Note: This tool may have certain components disabled or removed in compliance with vendor requests.**
 
@@ -60,6 +61,7 @@ Our team continues to improve the code to enable broader and more effective data
 If you have any question or issue, please contact to me.
 
 herrtane@korea.ac.kr
+
 
 
 
